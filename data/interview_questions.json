@@ -1,0 +1,73 @@
+
+[
+    {
+        "topic": "Variables",
+        "difficulty": "Beginner",
+        "question": "What is a variable in Python?",
+        "answer": "A variable is a name that refers to a value. For example, age = 20 assigns the value 20 to the variable age.",
+        "keywords": ["name", "value"]
+    },
+    {
+        "topic": "Data Types",
+        "difficulty": "Beginner",
+        "question": "What is the difference between a list and a tuple?",
+        "answer": "A list is mutable, which means its items can be changed. A tuple is immutable, which means its items cannot be changed after creation.",
+        "keywords": ["mutable", "immutable"]
+    },
+    {
+        "topic": "Functions",
+        "difficulty": "Beginner",
+        "question": "What is a function in Python?",
+        "answer": "A function is a reusable block of code defined using the def keyword. It can accept parameters and return a result.",
+        "keywords": ["reusable", "def"]
+    },
+    {
+        "topic": "Loops",
+        "difficulty": "Beginner",
+        "question": "What is the difference between a for loop and a while loop?",
+        "answer": "A for loop is commonly used to iterate over a sequence or iterable. A while loop repeats while its condition remains true.",
+        "keywords": ["sequence", "condition"]
+    },
+    {
+        "topic": "OOP",
+        "difficulty": "Intermediate",
+        "question": "What is the difference between a class and an object?",
+        "answer": "A class defines the structure and behavior of objects. An object is an instance created from a class.",
+        "keywords": ["blueprint", "instance"]
+    },
+    {
+        "topic": "OOP",
+        "difficulty": "Intermediate",
+        "question": "What is inheritance in Python?",
+        "answer": "Inheritance allows a child class to reuse or extend attributes and methods from a parent class.",
+        "keywords": ["child class", "parent class"]
+    },
+    {
+        "topic": "Exceptions",
+        "difficulty": "Intermediate",
+        "question": "What is exception handling in Python?",
+        "answer": "Exception handling lets a program handle runtime errors using constructs such as try, except, else and finally.",
+        "keywords": ["try", "except"]
+    },
+    {
+        "topic": "Files",
+        "difficulty": "Intermediate",
+        "question": "Why should we use a with statement when opening a file?",
+        "answer": "The with statement manages the file context and normally closes the file automatically when the block ends, even if an exception occurs.",
+        "keywords": ["automatically", "closes"]
+    },
+    {
+        "topic": "Generators",
+        "difficulty": "Advanced",
+        "question": "What is a generator in Python?",
+        "answer": "A generator produces values one at a time, commonly using yield. It can avoid storing all generated values in memory at once.",
+        "keywords": ["yield", "one at a time"]
+    },
+    {
+        "topic": "Decorators",
+        "difficulty": "Advanced",
+        "question": "What is a decorator in Python?",
+        "answer": "A decorator is a callable that takes another function or callable and returns a wrapped or modified callable, commonly using the @decorator syntax.",
+        "keywords": ["callable", "function"]
+    }
+]

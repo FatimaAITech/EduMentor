@@ -1,0 +1,58 @@
+
+[
+    {
+        "topic": "Python Basics",
+        "question": "Which keyword is used to define a function in Python?",
+        "options": {
+            "A": "function",
+            "B": "def",
+            "C": "define",
+            "D": "fun"
+        },
+        "answer": "B"
+    },
+    {
+        "topic": "Loops",
+        "question": "Which loop is commonly used to iterate over a sequence?",
+        "options": {
+            "A": "for",
+            "B": "switch",
+            "C": "repeat",
+            "D": "select"
+        },
+        "answer": "A"
+    },
+    {
+        "topic": "OOP",
+        "question": "What is a class in Python?",
+        "options": {
+            "A": "A loop",
+            "B": "A data type only",
+            "C": "A blueprint for creating objects",
+            "D": "A Python package manager"
+        },
+        "answer": "C"
+    },
+    {
+        "topic": "Data Structures",
+        "question": "Which Python data structure stores key-value pairs?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Set",
+            "D": "Dictionary"
+        },
+        "answer": "D"
+    },
+    {
+        "topic": "Functions",
+        "question": "Which keyword sends a result back from a function?",
+        "options": {
+            "A": "print",
+            "B": "return",
+            "C": "input",
+            "D": "break"
+        },
+        "answer": "B"
+    }
+]
